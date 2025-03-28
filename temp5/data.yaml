@@ -1,0 +1,7 @@
+train: /home/c515/lmx/ultralytics-8.3.35/temp_datasets/temp5/train/images
+val: /home/c515/lmx/ultralytics-8.3.35/temp_datasets/temp5/valid/images
+test: /home/c515/lmx/ultralytics-8.3.35/temp_datasets/temp5/test/images
+
+nc: 2
+names: ['crop', 'weed']
+
